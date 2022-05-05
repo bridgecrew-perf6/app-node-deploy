@@ -8,6 +8,7 @@ It leverages the [Shopify API Library](https://github.com/Shopify/shopify-node-a
 
 This is the repository used when you create a new Node app with the [Shopify CLI](https://shopify.dev/apps/tools/cli).
 
+
 ## Requirements
 
 - If you don’t have one, [create a Shopify partner account](https://partners.shopify.com/signup).
